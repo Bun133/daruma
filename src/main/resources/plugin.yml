@@ -1,0 +1,7 @@
+name: Daruma
+version: @version@
+main: com.bun133.daruma.Daruma
+api-version: 1.15
+authors: [ Bun133 ]
+description: The Daruma Plugin
+website: https://twitter.com/bun133_
